@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**jaisbhavana/jaisbhavana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Hy there! My Name is Bhavana Jaiswal
 
 About Me
